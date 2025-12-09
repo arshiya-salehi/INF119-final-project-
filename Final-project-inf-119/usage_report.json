@@ -1,0 +1,9 @@
+{
+  "total_tokens": 7527,
+  "usage": {
+    "gemini-2.5-flash-lite": {
+      "numApiCalls": 5,
+      "totalTokens": 7527
+    }
+  }
+}
